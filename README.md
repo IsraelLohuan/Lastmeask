@@ -2,9 +2,7 @@
   <img alt="Letmeask" src="readme_images/logo.svg" width="160px">
 </p>
 
-<p align="center">
  <img alt="Letmeask" src="readme_images/cover.svg" width="160px">
-</p>
 
 <br>
 
