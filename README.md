@@ -3,7 +3,7 @@
 </p>
 
 <center>
-    <img alt="Letmeask" src="readme_images/cover.svg" width="160px">
+    <img alt="Letmeask" src="readme_images/cover.svg">
 </center>
 
 <br>
